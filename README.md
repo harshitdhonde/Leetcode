@@ -4,6 +4,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shitjustworks/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/shitjustworks/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/shitjustworks/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/shitjustworks/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shitjustworks/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
