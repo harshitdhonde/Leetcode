@@ -59,6 +59,7 @@
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shitjustworks/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/shitjustworks/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/shitjustworks/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
