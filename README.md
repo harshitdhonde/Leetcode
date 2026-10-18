@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/shitjustworks/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,16 +58,19 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/shitjustworks/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shitjustworks/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/shitjustworks/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
