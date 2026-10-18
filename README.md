@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shitjustworks/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/shitjustworks/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/shitjustworks/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/shitjustworks/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/shitjustworks/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/shitjustworks/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shitjustworks/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shitjustworks/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
